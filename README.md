@@ -1,2 +1,2 @@
-# IOT-phase--1-submission
+# IOT
 phase 1 submission
